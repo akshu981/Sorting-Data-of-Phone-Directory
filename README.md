@@ -1,1 +1,2 @@
 # Sorting-Data-of-Phone-Directory
+In the Java project, I created three arrays from the dataset of Phone Directory of Wesleyan College: Array of columns (Person name, Department, Title, and Capacity), array of employees, and array of offices on campus. Out of the three arrays, I sorted the array of employees in ascending order according to their names and the array of offices in descending order by phone extension. To cross check the output, I deduced the total nummber of employees and offices.
